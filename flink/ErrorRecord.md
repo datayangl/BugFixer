@@ -86,7 +86,8 @@ ClusterBlockException[blocked by: [FORBIDDEN/12/index read-only / allow delete (
 ```
 
 reason：磁盘空间不足，导致es的索引不可写
-link：
+
+相关链接：
 1. [stackoverflow](https://stackoverflow.com/questions/48032661/transporterror403-ucluster-block-exception-ublocked-by-forbidden-12-inde)
 2. [链接](https://blog.csdn.net/dyr_1203/article/details/85619238)
 
